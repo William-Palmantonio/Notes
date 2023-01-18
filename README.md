@@ -2,4 +2,4 @@
 
 Add notes and remove them. 
 
-William-Palmantonio.github.io/Notes/ 
+http://William-Palmantonio.github.io/Notes/  
